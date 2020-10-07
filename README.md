@@ -1,5 +1,7 @@
 # Kinect와 Unity AR을 활용한 운동 자세 교정 시스템
 
+## 2020-상반기 경희대학교 캡스톤디자인 경진대회 수상작
+http://wzine.kr/khu_capstone/award/index_202001.html?pageNum=6
 
 ## 프로젝트 목표
 
